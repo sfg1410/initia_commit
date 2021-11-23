@@ -1,0 +1,15 @@
+{
+    "name": "aula16/initia_commit",
+    "autoload": {
+        "psr-4": {
+            "Aula16\\InitiaCommit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Macario Ptolomeo Chejov",
+            "email": "Ptolomeo@toito.com"
+        }
+    ],
+    "require": {}
+}
